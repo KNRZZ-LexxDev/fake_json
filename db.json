@@ -73,12 +73,12 @@
     }
   ],
 
-  "auth":[
+  "profile":[
     {
       "id": 1,
-      "firstName": "Alexey",
-      "surName": "Michalchenko",
-      "lastName": "228"
+      "first_name": "Alexey",
+      "middle_name": "Michalchenko",
+      "last_name": "228"
     }
   ],
 
