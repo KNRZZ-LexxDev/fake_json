@@ -82,6 +82,12 @@
     }
   ],
 
+  "auth":[
+    {
+      "token": "asdasdjskdahsdjkasdskdhgsadjkashdgjkasdhsalkdjaslkdsaljdsaldsa"
+    }
+  ],
+
   "products":[
     {
       "id": 1,
