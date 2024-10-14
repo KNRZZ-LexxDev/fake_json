@@ -71,6 +71,38 @@
       "cost": "90 968 ₽",
       "banner": "https://sadovod-opt.ru/upload/iblock/e6a/e6a3971bc59e342095409e044d246ead.png"
     }
+  ],
+
+  "auth":[
+    {
+      "id": 1,
+      "firstName": "Alexey",
+      "surName": "Michalchenko",
+      "lastName": "228"
+    }
+  ],
+
+  "products":[
+    {
+      "id": 1,
+      "title": "Look 977 BLACK FLUO YELLOW GREEN XT 2x11S AMC 2018",
+      "cost":"90 968 ₽"
+    },
+    {
+      "id": 2,
+      "title": "Look 977 BLACK FLUO YELLOW GREEN XT 2x11S AMC 2018",
+      "cost":"90 968 ₽"
+    },
+    {
+      "id": 3,
+      "title": "Trek Dual Sport 2 Mulsanne Hybd 2022",
+      "cost": "649 110 ₽"
+    },
+    {
+      "id": 4,
+      "title": "Trek Dual Sport 2 Mulsanne Hybd 2022",
+      "cost": "649 110 ₽"
+    }
   ]
 }
 
