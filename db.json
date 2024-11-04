@@ -108,6 +108,7 @@
       "cost": "649 110 ₽"
     }
   ],
+
   "burgers": [
     {
       "id": 1,
@@ -138,6 +139,51 @@
       "img": "https://avatars.mds.yandex.net/i?id=82236f7f63db3cf65cb6f5aba286faa459f81a63-4078171-images-thumbs&n=13",
       "title": "Chicken Burger",
       "cost": "15.00"
+    }
+  ],
+
+  "restaurants": [
+    {
+      "id": 1,
+      "img": "https://avatars.mds.yandex.net/i?id=1a1fd34deb2c6f2686e7b3bd2dc681a5e826136d3520be74-13104117-images-thumbs&n=13",
+      "name": "Blaze Pizza",
+      "date_open": "11.00 AM",
+      "date_close": "10.00 PM"
+    },
+    {
+      "id": 2,
+      "img": "https://pro-eda.ru/wp-content/uploads/2023/07/2023-07-04_09-28-54.png",
+      "name": "Pizza Ranch",
+      "date_open": "09.00 AM",
+      "date_close": "10.00 PM"
+    },
+    {
+      "id": 3,
+      "img": "https://ladysarafan.ru/wp-content/uploads/2021/02/scale_1200.png",
+      "name": "Dion's Pizza Hut",
+      "date_open": "10.00 AM",
+      "date_close": "12.00 PM"
+    }, 
+    {
+      "id": 4,
+      "img": "https://avatars.mds.yandex.net/get-sprav-products/8331772/2a0000019007619e33e57ee5b190fb2f92ce/M_height",
+      "name": "Royel Burger",
+      "date_open": "11.00 AM",
+      "date_close": "10.00 PM"
+    },
+    {
+      "id": 5,
+      "img": "https://lh3.googleusercontent.com/MHLJwoBLey86rXmscUQpeAvv4WAIrcAQPljWHZ7I3WyqEdjC4awtfG6abqG8Un4Cv0IA=h500",
+      "name": "Cheeseburger With Salad",
+      "date_open": "09.00 AM",
+      "date_close": "10.00 PM"
+    },
+    {
+      "id": 6,
+      "img": "https://cateringlanda.files.wordpress.com/2017/08/sin-tc3adtulo-2.png",
+      "name": "Cheeseburger With Salad",
+      "date_open": "10.00 AM",
+      "date_close": "12.00 PM"
     }
   ]
 }
