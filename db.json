@@ -109,6 +109,45 @@
       "title": "Trek Dual Sport 2 Mulsanne Hybd 2022",
       "cost": "649 110 ₽"
     }
+  ],
+
+
+  "burgers":[
+    {
+      "id": 1,
+      "img": "https://avatars.mds.yandex.net/i?id=627bcb6d9e201dc5cd773b35445a1d68e7ece86e-10661409-images-thumbs&n=13",
+      "title": "Cheeseburger With Salad",
+      "cost":"18.00"
+    },
+    
+    {
+      "id": 2,
+      "img": "https://avatars.mds.yandex.net/i?id=627bcb6d9e201dc5cd773b35445a1d68e7ece86e-10661409-images-thumbs&n=13",
+      "title": "Beef Burger",
+      "cost":"15.00"
+    },
+    
+    {
+      "id": 3,
+      "img": "https://avatars.mds.yandex.net/i?id=627bcb6d9e201dc5cd773b35445a1d68e7ece86e-10661409-images-thumbs&n=13",
+      "title": "Royel Cheeseburger",
+      "cost":"16.00"
+    },
+    
+    {
+      "id": 4,
+      "img": "https://avatars.mds.yandex.net/i?id=627bcb6d9e201dc5cd773b35445a1d68e7ece86e-10661409-images-thumbs&n=13",
+      "title": "Black Gambugrer ",
+      "cost":"14.00"
+    },
+    
+    {
+      "id": 5,
+      "img": "https://avatars.mds.yandex.net/i?id=627bcb6d9e201dc5cd773b35445a1d68e7ece86e-10661409-images-thumbs&n=13",
+      "title": "Chicken Burger",
+      "cost":"15.00"
+    }
+
   ]
 }
 
